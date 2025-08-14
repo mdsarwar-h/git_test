@@ -1,2 +1,2 @@
 # git_test
-Hello Odin
+Hello again, Odin! This is my second update.
